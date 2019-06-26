@@ -1,0 +1,7 @@
+D:\WorkGabriel\Repositorios\PraticandoObserver\ConsoleAppObserverExemple\bin\Debug\ConsoleAppObserverExemple.exe.config
+D:\WorkGabriel\Repositorios\PraticandoObserver\ConsoleAppObserverExemple\bin\Debug\ConsoleAppObserverExemple.exe
+D:\WorkGabriel\Repositorios\PraticandoObserver\ConsoleAppObserverExemple\bin\Debug\ConsoleAppObserverExemple.pdb
+D:\WorkGabriel\Repositorios\PraticandoObserver\ConsoleAppObserverExemple\obj\Debug\ConsoleAppObserverExemple.csprojAssemblyReference.cache
+D:\WorkGabriel\Repositorios\PraticandoObserver\ConsoleAppObserverExemple\obj\Debug\ConsoleAppObserverExemple.csproj.CoreCompileInputs.cache
+D:\WorkGabriel\Repositorios\PraticandoObserver\ConsoleAppObserverExemple\obj\Debug\ConsoleAppObserverExemple.exe
+D:\WorkGabriel\Repositorios\PraticandoObserver\ConsoleAppObserverExemple\obj\Debug\ConsoleAppObserverExemple.pdb

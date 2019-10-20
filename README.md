@@ -1,2 +1,2 @@
-# PraticandoObserver
-Praticando o Observer pattern
+# ObserverReverso
+Observer pattern ao contrário
